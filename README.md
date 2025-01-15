@@ -48,5 +48,6 @@ Licensed under the MIT License. See `LICENSE` for details.
 ## 📫 Contact
 
 For any questions or collaboration, feel free to reach out:
+- **Email**: [tanishq.m.pawar@gmail.com](mailto:tanishq.m.pawar@gmail.com)
 - **GitHub**: [TanishqP07](https://github.com/TanishqP07)
 
